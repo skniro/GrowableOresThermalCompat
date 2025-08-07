@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:blaze_rod_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:blaze_rod",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:feather_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:feather",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

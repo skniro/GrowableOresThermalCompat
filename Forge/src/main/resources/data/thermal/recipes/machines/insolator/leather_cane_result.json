@@ -1,0 +1,12 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "growable_ores:leather_cane"
+  },
+  "result": [
+    {
+      "item": "growable_ores:leather_cane",
+      "chance": 2.0
+    }
+  ]
+}

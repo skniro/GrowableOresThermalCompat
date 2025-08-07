@@ -1,0 +1,21 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "indrev"
+      ]
+    }
+  ],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:ir_lead_cane"
+  },
+  "result": [
+    {
+      "item": "indrev:lead_ingot",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

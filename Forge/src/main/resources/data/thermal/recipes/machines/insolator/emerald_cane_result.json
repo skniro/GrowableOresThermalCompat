@@ -1,0 +1,12 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "growable_ores:emerald_cane"
+  },
+  "result": [
+    {
+      "item": "growable_ores:emerald_cane",
+      "chance": 2.0
+    }
+  ]
+}

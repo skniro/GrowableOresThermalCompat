@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:clay_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:clay",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

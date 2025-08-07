@@ -1,0 +1,21 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "techreborn"
+      ]
+    }
+  ],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:peridot_cane"
+  },
+  "result": [
+    {
+      "item": "techreborn:peridot_gem",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

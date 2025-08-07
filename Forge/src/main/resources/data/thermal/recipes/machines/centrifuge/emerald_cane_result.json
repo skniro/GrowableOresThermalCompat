@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:emerald_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:emerald",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

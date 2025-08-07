@@ -1,0 +1,33 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "gobber2"
+      ]
+    }
+  ],
+  "forge:conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "gobber2"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "gobber2"
+    }
+  ],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:gobber_nether_gobber_ingot_cane"
+  },
+  "result": [
+    {
+      "item": "gobber2:gobber2_ingot_nether",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

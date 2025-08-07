@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:bone_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:bone",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

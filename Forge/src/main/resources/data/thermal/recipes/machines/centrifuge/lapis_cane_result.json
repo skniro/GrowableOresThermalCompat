@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:lapis_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:lapis_lazuli",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

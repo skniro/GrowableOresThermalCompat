@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:slime_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:slime_ball",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

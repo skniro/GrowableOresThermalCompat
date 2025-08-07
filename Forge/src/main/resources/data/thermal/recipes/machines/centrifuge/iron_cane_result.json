@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:iron_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:iron_ingot",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

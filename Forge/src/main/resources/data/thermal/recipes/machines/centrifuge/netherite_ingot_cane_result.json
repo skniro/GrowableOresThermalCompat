@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:netherite_ingot_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:netherite_ingot",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

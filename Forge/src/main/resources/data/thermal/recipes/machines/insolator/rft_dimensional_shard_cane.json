@@ -1,0 +1,32 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "rftoolsbase"
+      ]
+    }
+  ],
+  "forge:conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "rftoolsbase"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "rftoolsbase"
+    }
+  ],
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "growable_ores:rft_dimensional_shard_cane"
+  },
+  "result": [
+    {
+      "item": "growable_ores:rft_dimensional_shard_cane",
+      "chance": 2.0
+    }
+  ]
+}

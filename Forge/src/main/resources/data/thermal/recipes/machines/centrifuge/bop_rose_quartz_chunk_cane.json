@@ -1,0 +1,33 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "biomesoplenty"
+      ]
+    }
+  ],
+  "forge:conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "biomesoplenty"
+    }
+  ],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:bop_rose_quartz_chunk_cane"
+  },
+  "result": [
+    {
+      "item": "biomesoplenty:rose_quartz_chunk",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

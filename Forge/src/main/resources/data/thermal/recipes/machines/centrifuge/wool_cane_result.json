@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:wool_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:white_wool",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

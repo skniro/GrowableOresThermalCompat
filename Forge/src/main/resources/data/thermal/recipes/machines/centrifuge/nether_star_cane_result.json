@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:nether_star_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:nether_star",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

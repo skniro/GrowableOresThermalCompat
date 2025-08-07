@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:redstone_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:redstone",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:copper_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:copper_ingot",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

@@ -1,0 +1,13 @@
+{
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:egg_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:egg",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

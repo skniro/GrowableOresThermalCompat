@@ -1,0 +1,12 @@
+{
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "growable_ores:netherite_scrap_cane"
+  },
+  "result": [
+    {
+      "item": "growable_ores:netherite_scrap_cane",
+      "chance": 2.0
+    }
+  ]
+}

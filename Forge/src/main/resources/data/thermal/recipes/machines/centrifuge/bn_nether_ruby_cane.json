@@ -1,0 +1,33 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "betternether"
+      ]
+    }
+  ],
+  "forge:conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "betternether"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "betternether"
+    }
+  ],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:bn_nether_ruby_cane"
+  },
+  "result": [
+    {
+      "item": "betternether:nether_ruby",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}
