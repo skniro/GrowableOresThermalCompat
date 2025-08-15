@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": [],
+  "forge:conditions": [],
+  "neoforge:conditions": [],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:birch_log_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:birch_log",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

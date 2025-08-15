@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": [],
+  "forge:conditions": [],
+  "neoforge:conditions": [],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:crimson_stem_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:crimson_stem",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}

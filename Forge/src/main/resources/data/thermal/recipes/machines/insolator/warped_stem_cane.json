@@ -1,0 +1,15 @@
+{
+  "fabric:load_conditions": [],
+  "forge:conditions": [],
+  "neoforge:conditions": [],
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "growable_ores:warped_stem_cane"
+  },
+  "result": [
+    {
+      "item": "growable_ores:warped_stem_cane",
+      "chance": 2.0
+    }
+  ]
+}
