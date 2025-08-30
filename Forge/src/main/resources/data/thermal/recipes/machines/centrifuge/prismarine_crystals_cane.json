@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": [],
+  "forge:conditions": [],
+  "neoforge:conditions": [],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:prismarine_crystals_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:prismarine_crystals",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}
