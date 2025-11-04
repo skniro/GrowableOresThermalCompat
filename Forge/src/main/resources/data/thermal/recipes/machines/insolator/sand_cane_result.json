@@ -1,0 +1,15 @@
+{
+  "fabric:load_conditions": [],
+  "forge:conditions": [],
+  "neoforge:conditions": [],
+  "type": "thermal:insolator",
+  "ingredient": {
+    "item": "growable_ores:sand_cane"
+  },
+  "result": [
+    {
+      "item": "growable_ores:sand_cane",
+      "chance": 2.0
+    }
+  ]
+}
