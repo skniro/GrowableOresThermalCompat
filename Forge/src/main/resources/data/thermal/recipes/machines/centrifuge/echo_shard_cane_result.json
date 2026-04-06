@@ -1,0 +1,16 @@
+{
+  "fabric:load_conditions": [],
+  "forge:conditions": [],
+  "neoforge:conditions": [],
+  "type": "thermal:centrifuge",
+  "ingredient": {
+    "item": "growable_ores:echo_shard_cane"
+  },
+  "result": [
+    {
+      "item": "minecraft:echo_shard",
+      "chance": 1.5
+    }
+  ],
+  "energy": 1600
+}
